@@ -1,2 +1,3 @@
 # aula6
-Portifólio - FLEXBOX
+Portifólio Thiago - FLEXBOX
+página com Grid
